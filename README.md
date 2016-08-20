@@ -13,7 +13,7 @@
  - `cargo run`
 
 ```
-Data backend running at `localhost:12345/`.
+Data backend running at `127.0.0.1:12345`.
 ```
 
 ## Using it

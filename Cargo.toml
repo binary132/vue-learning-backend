@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Bodie Solomon <bsolomon@freewheel.tv>"]
 
 [dependencies]
+log = "0.3"
+env_logger = "0.3"
+
+ws = "0.5.2"
